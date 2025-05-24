@@ -1,2 +1,0 @@
-/ip firewall mangle
-add chain=prerouting src-address-list=ip_private dst-address-list=speedtest action=mark-routing new-routing-mark=traffic_speedtest
