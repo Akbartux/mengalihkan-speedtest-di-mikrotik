@@ -287,3 +287,5 @@ add address=speedtest.umn.ac.id list=speedtest
 add address=speedtest.routelink.net.id list=speedtest
 add address=www.speedtest.com.sg list=speedtest
 add address=speed.sng.host.co.ug list=speedtest
+add address=nperf.com list=speedtest
+add address=fast.com list=speedtest
