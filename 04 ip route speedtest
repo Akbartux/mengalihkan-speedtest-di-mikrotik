@@ -1,2 +1,2 @@
 /ip route
-add dst-address=0.0.0.0/0 gateway=l2tp-out-public
+add dst-address=0.0.0.0/0 gateway=l2tp-out-public routing-mark=traffic_speedtest gateway=l2tp-out-public
